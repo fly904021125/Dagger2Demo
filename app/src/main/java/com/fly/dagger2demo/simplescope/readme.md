@@ -1,0 +1,1 @@
+Scope中 Singleton的使用，被标注@Singleton的provider方法，只有相同Scope（即也标注了@Singleton）的Component才可以使用
